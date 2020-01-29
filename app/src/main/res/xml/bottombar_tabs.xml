@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_feed"
+        icon="@drawable/ic_feed"
+        title="@string/tab.list" />
+    <tab
+        id="@+id/tab_tasks"
+        icon="@drawable/ic_assignment"
+        title="@string/tab.tasks" />
+    <tab
+        id="@+id/tab_rating"
+        icon="@drawable/ic_cup"
+        title="@string/tab.rating" />
+    <tab
+        id="@+id/tab_account"
+        icon="@drawable/ic_account_box"
+        title="@string/tab.account" />
+</tabs>

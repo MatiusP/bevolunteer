@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#80CBC4</color>
+    <color name="grey">#C9C9C9</color>
+    <color name="opacity54.black">#85000000</color>
+    <color name="opacity70.white">#B9FFFFFF</color>
+    <color name="yellow_star">#F8AE1C</color>
+    <color name="tab_indicator_color">#FFFF8C</color>
+</resources>
